@@ -75,7 +75,7 @@
 		"nerv-devtools": "^1.5.6",
 		"nervjs": "^1.5.6",
 		"prettier": "^1.19.1",
-		"qs": "^6.9.1",
+		"qs": "^6.9.7",
 		"taro-ui": "^2.2.4",
 		"tslint": "^5.20.1",
 		"tslint-config-prettier": "^1.18.0",
